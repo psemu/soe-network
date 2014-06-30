@@ -10,5 +10,6 @@
     "bufferext": "git+ssh://git@github.com:jseidelin/bufferext.git",
     "jenkins-hash": "git+ssh://git@github.com:jseidelin/jenkins-hash.git",
     "dataschema": "git+ssh://git@github.com:jseidelin/dataschema.git"
-  }
+  },
+  "private": true
 }
