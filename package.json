@@ -1,0 +1,14 @@
+{
+  "name": "soe-network",
+  "version": "0.1.0",
+  "description": "Library for emulating SOE network traffic (PlanetSide 2 in particular)",
+  "author": "Jacob Seidelin <jseidelin@nihilogic.dk> (https://github.com/jseidelin)",
+  "main": "soenetwork.js",
+  "dependencies": {
+    "buffer-crc32": ">=0.2.1",
+    "loglevel": "*",
+    "bufferext": "git+ssh://git@github.com:jseidelin/bufferext.git",
+    "jenkins-hash": "git+ssh://git@github.com:jseidelin/jenkins-hash.git",
+    "dataschema": "git+ssh://git@github.com:jseidelin/dataschema.git"
+  }
+}
