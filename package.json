@@ -6,6 +6,7 @@
   "main": "soenetwork.js",
   "dependencies": {
     "buffer-crc32": ">=0.2.1",
+    "mongodb": ">=1.4.8",
     "debug": ">=1.0.2",
     "bufferext": "git+ssh://git@github.com:jseidelin/bufferext.git",
     "jenkins-hash": "git+ssh://git@github.com:jseidelin/jenkins-hash.git",
