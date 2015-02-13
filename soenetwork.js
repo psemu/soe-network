@@ -5,8 +5,10 @@ exports.SOEProtocol         = require("./lib/soeprotocol.js").SOEProtocol;
 exports.LoginProtocol       = require("./lib/loginprotocol.js").LoginProtocol;
 exports.GatewayProtocol     = require("./lib/gatewayprotocol.js").GatewayProtocol;
 exports.ZoneProtocol        = require("./lib/zoneprotocol.js").ZoneProtocol;
+exports.H1Z1Protocol        = require("./lib/h1z1protocol.js").H1Z1Protocol;
 
 exports.ZonePackets         = require("./lib/zonepackets.js");
+exports.H1Z1Packets         = require("./lib/h1z1packets.js");
 
 exports.SOEClient           = require("./lib/soeclient.js").SOEClient;
 exports.LoginClient         = require("./lib/loginclient.js").LoginClient;
