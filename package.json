@@ -1,6 +1,6 @@
 {
   "name": "soe-network",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Library for emulating SOE network traffic (PlanetSide 2 in particular)",
   "author": {
       "name" : "Jacob Seidelin", 
